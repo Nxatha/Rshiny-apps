@@ -7,7 +7,7 @@ My first shiny app: Collects user scores, calculates points and stores data in g
 Link to published app: https://nxatha.shinyapps.io/TrashketballChallenge/
 
 ### Functionality
-User Interface - User enters their name, number of shots they made within a 1 meter( 3 feet range) and number of shots they made at approx 2m (5 -6 feet range)
+User Interface - User enters their name, number of shots they made into trash can within a 1 meter( 3 feet range) and number of shots they made at approx 2m (5 -6 feet range)
 
 On Submit - Server calculates the points earned by user as (2 * shots made at 1 meter) + (3 * shots made at 2m)
 
