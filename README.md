@@ -2,7 +2,7 @@
 Creating apps in R shiny with different functionality
 
 ## The Trashketball App 
-Collects user scores, calculates points and stores data in google sheets. A children's game to learn terms used in Data Science: Data Collection, Data Sets and Tables as part of a Data Curiosity program for children aged 12-16
+My first shiny app: Collects user scores, calculates points and stores data in google sheets. A children's game to learn terms used in Data Science: Data Collection, Data Sets and Tables as part of a Data Curiosity program for children aged 12-16
 
 Link to published app: https://nxatha.shinyapps.io/TrashketballChallenge/
 
