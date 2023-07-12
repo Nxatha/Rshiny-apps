@@ -1,4 +1,4 @@
-#
+
 # This is a Shiny web application that creates a Trashketball stats sheet
 
 library(shiny)
@@ -27,7 +27,7 @@ file <- drive_find(pattern = "PlayerScores")
 sheet_id <- file$id
 
 
-# Define UI for application that collects player data, creates a data table 
+# Define UI for application that inputs player data, creates a data table 
 #with points for each player and writes to google sheets data table
 ui <- fluidPage(theme=shinytheme("united"),
 
@@ -56,7 +56,7 @@ ui <- fluidPage(theme=shinytheme("united"),
     )
 )
 
-# Define server logic required to draw a histogram
+# Define server logic required to calculate points and collect data to google sheets
 server <- function(input, output) {
      
    #output data table with player stats
