@@ -30,5 +30,23 @@ Input:
 
 🎯 You can view the original data in a separate tab
 
+## The Early birth and Education shiny app
+
+This app looks at 1980-2022 time series data on early births (Births by Age of Mother 15-19) and enrollment drop rates.
+
+Link to published app: https://nxatha.shinyapps.io/birthedu/
+
+### Functionality
+
+🎯 Using sliders you can slect the age of mother and the years of interest for all existing data on mothers aged 15-19 from 1980 -2022
+
+🎯 The second tab looks at a comparison between time series of early births 2018-2022 and enrollment drop rates 2018-2022
+
+🎯 The third tab looks at the static correlation between the two variables
+
+🎯 The aggregated data from 2018-2022 can be viewed and downloaded as csv.
+
+
+
 
 
