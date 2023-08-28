@@ -17,7 +17,6 @@ Output - Number of points earned and a link to the collected dataset of all user
 This is a UDEMY course project app which displays and calculates the valuation of a mining company based on the calculated score of its stocks (plots of land owned : Graded 1 to 3 based on level of minerals found in plot).
 This score is weighted differently by different companies.
 
-Link to published app: https://nxatha.shinyapps.io/course_project/
 
 ### Functionality
 Input:
