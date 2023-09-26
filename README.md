@@ -16,7 +16,8 @@ Output - Number of points earned and a link to the collected dataset of all user
 This is a UDEMY guided course project app which displays and calculates the valuation of a mining company based on the calculated score of its stocks (plots of land owned : Graded 1 to 3 based on level of minerals found in plot).
 This score is weighted differently by different companies.
 
-![mining stock](https://github.com/Nxatha/Rshiny-apps/assets/105219482/4895a0b5-8e86-4927-a90f-c33683184350)
+https://github.com/Nxatha/Rshiny-apps/assets/105219482/9e1a1855-b75f-49ca-aa03-dd3a98c2477a
+
 
 ### Functionality
 Input:
