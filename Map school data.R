@@ -8,6 +8,8 @@ import("ggplot2")
 import("RColorBrewer")
 import("leaflet")
 
+#app.r , the school's QA shiny app, depends on this file
+#get all data required, clean, merge and prepare for app
 
 schools_mapping <- st_read("data/Schools/Schools.shp")
 enrolmentRate<-load("data/enrolmentRate.RData")
