@@ -6,7 +6,7 @@ import("classInt")
 
 
 
-#load data that will be used in the app
+#load data that will be used in the app.R
 getMyData<- use("Map school data.R")
 county_mapping_primary<-getMyData$county_mapping_primary
 county_mapping_all<-getMyData$county_mapping_all
