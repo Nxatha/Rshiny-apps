@@ -15,7 +15,7 @@ Files include the app.r file, Map Schools data.r file, data folder, www folder
 
 Host, auto update and deploy this on official website for Key Decision Makers, School Heads at County Level
 
-Available to deploy on an official website (large) Contact for sales analytics@ihsani.co.ke
+Available to deploy on an official website (large) Contact for sales mary@nxtdatanalytics.com
 
 ## Educators
 
